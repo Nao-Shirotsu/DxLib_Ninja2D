@@ -1,0 +1,8 @@
+*.sln
+*/
+!Project1/
+Project1/*/
+Project1/*
+!README.md
+!Project1/*.h
+!Project1/*.cpp
